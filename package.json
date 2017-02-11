@@ -1,0 +1,15 @@
+{
+    "name": "robotsoft-dark-pro",
+    "title": "RobotSoft Dark PRO",
+    "description": "Tema para editor de código Brackets",
+    "homepage": "https://github.com/robotsoftr/robotsoft-dark-pro",
+    "version": "1.0.0",
+    "author": "André Moraes <robotsoftr@gmail.com> (https://github.com/robotsoftr)",
+    "license": "LRBTS",
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
